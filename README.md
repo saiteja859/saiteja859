@@ -23,9 +23,9 @@
 |--------|-------------|------------|------|
 | **AI Volume Controller** | Control volume using hand gestures | Python, OpenCV, Mediapipe | [GitHub](https://github.com/your-repo-link) |
 | **Equipment Rental** | Rent/share equipment online | Node.js, MongoDB, EJS | [Live](https://your-live-link.com) |
+| **Easy Bookings** | Rental property platform with reviews and role-based access | Express, MongoDB, JavaScript, EJS | [GitHub](https://github.com/your-repo-link) |
 | **Portfolio Website** | My responsive portfolio | HTML, CSS, JS | [Live](https://saiteja-portfolio-six.vercel.app) |
 
----
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-teja96/)  

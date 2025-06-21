@@ -3,11 +3,11 @@
 🎓 I'm a Computer Science student from MVGR College of Engineering  
 🌍 I live in India  
 💼 I love building full-stack and AI-powered applications  
-📫 Reach me at: saiteja.dev@gmail.com  
+📫 Reach me at: viswanadamsaiteja@gmail.com  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiteja.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-teja96)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viswanadamsaiteja@gmail.com)
 
 ---
 
@@ -39,9 +39,9 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **AI Volume Controller** | Control volume using hand gestures | Python, OpenCV, Mediapipe | [GitHub](https://github.com/your-repo-link) |
-| **Easy Bookings** | Property booking platform | Express, MongoDB, EJS | [GitHub](https://github.com/your-repo-link) |
-| **Equipment Rental** | Tool/equipment rental system | Node.js, MongoDB, EJS | [Live](https://your-live-link.com) |
+| **AI Volume Controller** | Control volume using hand gestures | Python, OpenCV, Mediapipe | [GitHub](https://github.com/saiteja859/Touchless_controller.git) |
+| **Easy Bookings** | Property booking platform | Express, MongoDB, EJS | [GitHub](https://github.com/saiteja859/EASYBOOKINGS.git) |
+| **Equipment Rental** | Tool/equipment rental system | Node.js, MongoDB, EJS | [GitHub](https://github.com/saiteja859/equipment-rental.git) |
 | **Portfolio Website** | My responsive portfolio | HTML, CSS, JS | [Live](https://saiteja-portfolio-six.vercel.app) |
 
 ---

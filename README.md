@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sai Teja!
 
-<!--
-**saiteja859/saiteja859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Aspiring Full-Stack Developer | MERN Stack | AI Enthusiast
 
-Here are some ideas to get you started:
+🚀 Passionate about building real-world projects that solve problems  
+🎯 Actively looking for web development internships & freelance work  
+📫 Reach me at: saiteja.dev@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,java,figma,git)
+
+---
+
+## 📈 GitHub Stats
+![Sai Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViswanadamSaiteja&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViswanadamSaiteja&layout=compact&theme=tokyonight)
+
+---
+
+## 📚 My Projects
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **AI Volume Controller** | Control volume using hand gestures | Python, OpenCV, Mediapipe | [GitHub](https://github.com/your-repo-link) |
+| **Equipment Rental** | Rent/share equipment online | Node.js, MongoDB, EJS | [Live](https://your-live-link.com) |
+| **Portfolio Website** | My responsive portfolio | HTML, CSS, JS | [Live](https://saiteja-portfolio-six.vercel.app) |
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://saiteja-portfolio-six.vercel.app)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your.email@example.com)

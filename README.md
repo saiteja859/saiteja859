@@ -4,7 +4,7 @@
 
 🚀 Passionate about building real-world projects that solve problems  
 🎯 Actively looking for web development internships & freelance work  
-📫 Reach me at: saiteja.dev@example.com
+📫 Reach me at: viswanadamsaiteja.com
 
 ---
 
@@ -13,10 +13,7 @@
 
 ---
 
-## 📈 GitHub Stats
-![Sai Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViswanadamSaiteja&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViswanadamSaiteja&layout=compact&theme=tokyonight)
 
 ---
 
@@ -31,6 +28,6 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-teja96/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://saiteja-portfolio-six.vercel.app)  
-[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:viswanadamsaiteja.com)
